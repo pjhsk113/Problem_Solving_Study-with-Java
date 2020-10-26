@@ -1,8 +1,6 @@
 package 구명보트;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 import static org.assertj.core.api.Assertions.assertThat;
@@ -17,26 +15,44 @@ public class 구명보트_동현 {
         people = new int[]{70, 50, 80, 50};
         limit = 100;
         ans = 3;
-        assertThat(solution.solution(people,limit)).isEqualTo(ans);
+        assertThat(solution.solution(people, limit)).isEqualTo(ans);
 
         people = new int[]{70, 80, 50};
         limit = 100;
         ans = 3;
-        assertThat(solution.solution(people,limit)).isEqualTo(ans);
+        assertThat(solution.solution(people, limit)).isEqualTo(ans);
+
+        people = new int[]{10, 10, 10};
+        limit = 100;
+        ans = 2;
+        assertThat(solution.solution(people, limit)).isEqualTo(ans);
+
+        people = new int[]{40, 40, 80};
+        limit = 160;
+        ans = 2;
+        assertThat(solution.solution(people, limit)).isEqualTo(ans);
+
     }
 
     static class Solution {
         public int solution(int[] people, int limit) {
             int answer = 0;
-            List<Integer> list = Arrays.stream(people)
-                    .boxed()
-                    .collect(Collectors.toList());
-            Collections.sort(list);
+            int f_count = 0;
+            int e_count = people.length  - 1;
+            Arrays.sort(people);
 
-            while(list.isEmpty()) {
-                while()
+            while(e_count - f_count >= 1) {
+                if (people[f_count] + people[e_count] <= limit) {
+                    f_count++;
+                    e_count--;
+                }
+                else
+                    e_count--;
                 answer++;
             }
+            if(e_count == f_count)
+                answer++;
+
             return answer;
         }
     }
