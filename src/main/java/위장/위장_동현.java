@@ -1,5 +1,8 @@
 package 위장;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import static org.assertj.core.api.Assertions.assertThat;
 public class 위장_동현 {
 
@@ -21,8 +24,29 @@ public class 위장_동현 {
 
    static class Solution {
         public int solution(String[][] clothes) {
-            int answer = 0;
-            return answer;
+            int answer = 1;
+            Map<String,Integer> map = new HashMap<>();
+
+            for(int i = 0; i<clothes.length; i++) {
+                map.put(clothes[i][1],0);
+            }
+
+            for(int i = 0; i<clothes.length; i++) {
+                String kind = clothes[i][1];
+                Integer count = map.get(kind);
+                map.put(kind,count+1);
+            }
+
+//            System.out.println(map.toString());z
+
+            if(map.size() == 1)
+                return clothes.length;
+
+            for (String key: map.keySet()) {
+                answer*= map.get(key);
+            }
+
+            return answer+clothes.length;
         }
     }
 }
