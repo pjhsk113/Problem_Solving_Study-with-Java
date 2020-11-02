@@ -34,6 +34,18 @@ public class 카펫_동현 {
     static class Solution {
         public int[] solution(int brown, int yellow) {
             int[] answer = {};
+            int total = brown + yellow;
+            int i = 1;
+            while(true) {
+                int brownTile = total / i;
+
+                if(brownTile * 2 + (i - 2) * 2 == brown
+                && tot) {
+                    answer = new int[]{brownTile, i};
+                    break;
+                }
+                i++;
+            }
             return answer;
         }
     }
