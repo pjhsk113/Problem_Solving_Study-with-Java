@@ -33,8 +33,23 @@ public class 카펫_동현 {
 
     static class Solution {
         public int[] solution(int brown, int yellow) {
-            int[] answer = {};
-            return answer;
+            int height = 0;
+            int width = 0;
+            for (height = 3; height <= (int) (brown + 4) / 2; height++) {
+
+                width = ((brown + 4) / 2) - height;
+                if (width < height) {
+                    break;
+                }
+
+                int yellowCount = (width - 2) * (height - 2);
+                if (yellow == yellowCount) {
+                    break;
+                }
+            }
+
+
+            return new int[] { width, height };
         }
     }
 }
