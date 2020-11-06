@@ -1,5 +1,7 @@
 package swapnodesinpairs;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Objects;
 
 import static org.assertj.core.api.Assertions.assertThat;
@@ -23,8 +25,17 @@ public class swap_nodes_in_pairs_장호 {
 
     static class Solution {
         public ListNode swapPairs(ListNode head) {
+            if (head == null || head.next == null) {
+                return head;
+            }
 
-            return null;
+            ListNode node;
+
+            node = head.next;
+            head.next = swapPairs(node.next);
+            node.next = head;
+
+            return node;
         }
     }
 
@@ -43,7 +54,6 @@ public class swap_nodes_in_pairs_장호 {
             this.val = val;
             this.next = next;
         }
-
         @Override
         public boolean equals(Object o) {
             if (this == o) return true;
