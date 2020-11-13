@@ -1,26 +1,21 @@
 package problem1.averageoflevelsinbinarytree;
 
-import swapnodesinpairs.swap_nodes_in_pairs_동현;
-
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-
-import static org.assertj.core.api.Assertions.assertThat;
 
 public class AverageofLevelsinBinaryTree_동현 {
 
-     public static void main(String[] args) {
-         Solution solution = new Solution();
+    public static void main(String[] args) {
+        Solution solution = new Solution();
 
-         TreeNode root = new TreeNode(3);
-         root.left = new TreeNode(9);
-         root.right = new TreeNode(20,new TreeNode(15),new TreeNode(7));
+        TreeNode root = new TreeNode(3);
+        root.left = new TreeNode(9);
+        root.right = new TreeNode(20, new TreeNode(15), new TreeNode(7));
 
-         List<Double> doubles = solution.averageOfLevels(root);
-         System.out.println(doubles.toString());
+        List<Double> doubles = solution.averageOfLevels(root);
+        System.out.println(doubles.toString());
 
-     }
+    }
 
     public static class TreeNode {
         int val;
@@ -42,31 +37,45 @@ public class AverageofLevelsinBinaryTree_동현 {
     }
 
     static class Solution {
+        List<Carry> carries = new ArrayList<>();
+
         public List<Double> averageOfLevels(TreeNode root) {
             List<Double> ans = new ArrayList<>();
-            int[] sum = new int[200];
-            int[] count = new int[200];
-            Arrays.fill(sum,0);
-            Arrays.fill(count,0);
 
-            dfs(root,0,sum,count);
 
-            int i = 0;
-            while(count[i] != 0) {
-                ans.add((double)sum[i]/count[i]);
-                i++;
+            dfs(root, 0);
+
+            for (Carry c: carries) {
+                ans.add((double)c.sum / c.count);
             }
-
             return ans;
         }
 
-        void dfs(TreeNode node,int level,int[] sum,int[] count) {
-            if(node != null) {
-                sum[level] += node.val;
-                count[level]++;
-                dfs(node.left,level+1,sum,count);
-                dfs(node.right,level+1,sum,count);
+        void dfs(TreeNode node, int level) {
+            if (node == null)
+                return;
+            if (carries.size() == level) {
+                carries.add(new Carry(node.val, 1));
+            } else {
+                Carry c = carries.get(level);
+                c.sum += node.val;
+                c.count++;
             }
+
+
+            dfs(node.left, level + 1);
+            dfs(node.right, level + 1);
+
+        }
+
+        static class Carry {
+            public Carry(double sum, int count) {
+                this.sum = sum;
+                this.count = count;
+            }
+
+            public double sum;
+            public int count;
         }
     }
 
