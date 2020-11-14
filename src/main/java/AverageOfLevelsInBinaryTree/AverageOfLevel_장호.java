@@ -1,9 +1,9 @@
 package AverageOfLevelsInBinaryTree;
 
-import swapnodesinpairs.swap_nodes_in_pairs_장호;
-
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -36,7 +36,40 @@ public class AverageOfLevel_장호 {
 
     static class Solution {
         public List<Double> averageOfLevels(TreeNode root) {
-            return new ArrayList<>();
+            Queue<TreeNode> q = new LinkedList<>();
+            List<Double> avg = new ArrayList<>();
+            double sum = 0, nodeCnt = 0;
+
+            q.add(root);
+            q.add(null);
+
+            while (!q.isEmpty()) {
+                TreeNode node = q.poll();
+                if (node == null) {
+                    avg.add((sum / nodeCnt));
+                    sum = 0;
+                    nodeCnt = 0;
+                    q.add(null);
+
+                    if (q.peek() == null) {
+                        break;
+                    } else {
+                        continue;
+                    }
+                }
+
+                sum += node.val;
+                nodeCnt += 1;
+
+                if (node.left != null) {
+                    q.add(node.left);
+                }
+                if (node.right != null) {
+                    q.add(node.right);
+                }
+            }
+
+            return avg;
         }
     }
 }
