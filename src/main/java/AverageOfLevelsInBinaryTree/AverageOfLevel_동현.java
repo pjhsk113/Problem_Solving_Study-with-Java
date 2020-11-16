@@ -33,8 +33,45 @@ public class AverageOfLevel_동현 {
     }
 
     static class Solution {
+        List<Carry> carries = new ArrayList<>();
+
         public List<Double> averageOfLevels(TreeNode root) {
-            return new ArrayList<>();
+            List<Double> ans = new ArrayList<>();
+
+
+            dfs(root, 0);
+
+            for (Carry c: carries) {
+                ans.add((double)c.sum / c.count);
+            }
+            return ans;
+        }
+
+        void dfs(TreeNode node, int level) {
+            if (node == null)
+                return;
+            if (carries.size() == level) {
+                carries.add(new Carry(node.val, 1));
+            } else {
+                Carry c = carries.get(level);
+                c.sum += node.val;
+                c.count++;
+            }
+
+
+            dfs(node.left, level + 1);
+            dfs(node.right, level + 1);
+
+        }
+
+        static class Carry {
+            public Carry(double sum, int count) {
+                this.sum = sum;
+                this.count = count;
+            }
+
+            public double sum;
+            public int count;
         }
     }
 }
