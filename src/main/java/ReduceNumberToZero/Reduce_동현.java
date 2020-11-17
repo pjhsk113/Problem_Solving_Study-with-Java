@@ -12,8 +12,8 @@ public class Reduce_동현 {
         ans = 6;
         assertThat(solution.numberOfSteps(num)).isEqualTo(ans);
 
-        num = 4;
-        ans = 8;
+        num = 8;
+        ans = 4;
         assertThat(solution.numberOfSteps(num)).isEqualTo(ans);
 
         num = 123;

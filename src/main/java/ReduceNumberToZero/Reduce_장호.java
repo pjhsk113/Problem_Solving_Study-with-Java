@@ -1,5 +1,7 @@
 package ReduceNumberToZero;
 
+import java.util.stream.IntStream;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class Reduce_장호 {
@@ -12,8 +14,8 @@ public class Reduce_장호 {
         ans = 6;
         assertThat(solution.numberOfSteps(num)).isEqualTo(ans);
 
-        num = 4;
-        ans = 8;
+        num = 8;
+        ans = 4;
         assertThat(solution.numberOfSteps(num)).isEqualTo(ans);
 
         num = 123;
@@ -24,7 +26,6 @@ public class Reduce_장호 {
     static class Solution {
         public int numberOfSteps (int num) {
             int ans = 0;
-
             return ans;
         }
     }
