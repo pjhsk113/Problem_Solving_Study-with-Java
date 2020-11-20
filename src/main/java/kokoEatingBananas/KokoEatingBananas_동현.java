@@ -41,7 +41,7 @@ public class KokoEatingBananas_동현 {
             while(left <= right) {
                 int mid = (left + right) / 2;
 
-                int eatHour = howTakeLongToEat(H,mid,piles);
+                int eatHour = howTakeLongToEat(mid,piles);
 
                 if(eatHour > H) {
                     left = mid + 1;
@@ -55,7 +55,7 @@ public class KokoEatingBananas_동현 {
             return left;
         }
 
-        int howTakeLongToEat(int H, int k,int[] piles) {
+        int howTakeLongToEat(int k,int[] piles) {
             int ans = 0;
             for (int pile : piles) {
                 int hour = 0;
