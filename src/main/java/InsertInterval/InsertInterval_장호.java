@@ -42,7 +42,6 @@ public class InsertInterval_장호 {
 
     static class Solution {
         public int[][] insert(int[][] intervals, int[] newInterval) {
-            Arrays.sort(intervals, Comparator.comparingInt(num -> num[0]));
             List<int[]> left = new ArrayList<>();
             List<int[]> right = new ArrayList<>();
             List<int[]> overLab = new ArrayList<>();
