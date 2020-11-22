@@ -1,8 +1,6 @@
 package InsertInterval;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -66,10 +64,10 @@ public class InsertInterval_동현 {
 
                 ansInterval.add(selectInterval.get(0).index, mergedInterval);
             } else {
-                //여기도 인덱스 계싼해야되네
-                // 하 포기 ㅋㅋ
                 ansInterval.add(new Interval(newInterval[0], newInterval[1]));
             }
+
+
 
 
             int ans[][] = new int[ansInterval.size()][2];
@@ -77,7 +75,7 @@ public class InsertInterval_동현 {
                 ans[i][0] = ansInterval.get(i).left;
                 ans[i][1] = ansInterval.get(i).right;
             }
-
+            Arrays.sort(ans, Comparator.comparingInt(num -> num[0]));
             return ans;
         }
 
