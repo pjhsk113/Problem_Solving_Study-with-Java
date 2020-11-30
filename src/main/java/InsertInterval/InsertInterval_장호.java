@@ -1,5 +1,10 @@
 package InsertInterval;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.List;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class InsertInterval_장호 {
@@ -37,9 +42,36 @@ public class InsertInterval_장호 {
 
     static class Solution {
         public int[][] insert(int[][] intervals, int[] newInterval) {
-            int ans[][] = new int[][] {{0}};
+            List<int[]> left = new ArrayList<>();
+            List<int[]> right = new ArrayList<>();
+            List<int[]> overLab = new ArrayList<>();
+            List<int[]> ans = new ArrayList<>();
 
-            return ans;
+            for (int[] interval : intervals) {
+                if (interval[1] < newInterval[0]) {
+                    left.add(interval);
+                } else if (interval[0] > newInterval[1]) {
+                    right.add(interval);
+                } else {
+                    overLab.add(interval);
+                }
+            }
+
+            ans.addAll(left);
+            ans.add(mergedInterval(overLab, newInterval));
+            ans.addAll(right);
+
+            return ans.toArray(new int[ans.size()][2]);
+        }
+
+        private int[] mergedInterval(List<int[]> overLab, int[] newInterval) {
+            int[] mergedArr;
+            mergedArr = newInterval;
+            for (int[] value : overLab) {
+                mergedArr[0] = Math.min(mergedArr[0], value[0]);
+                mergedArr[1] = Math.max(mergedArr[1], value[1]);
+            }
+            return mergedArr;
         }
     }
 }
