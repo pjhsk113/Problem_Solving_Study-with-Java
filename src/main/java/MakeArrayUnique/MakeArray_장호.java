@@ -1,6 +1,6 @@
 package MakeArrayUnique;
 
-import ReduceNumberToZero.Reduce_동현;
+import java.util.Arrays;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -15,12 +15,27 @@ public class MakeArray_장호 {
         assertThat(solution.minIncrementForUnique(arr)).isEqualTo(ans);
 
         arr = new int[]{3, 2, 1, 2, 1, 7};
-        ans = 1;
+        ans = 6;
+
+        arr = new int[]{1, 0};
+        ans = 0;
         assertThat(solution.minIncrementForUnique(arr)).isEqualTo(ans);
     }
     static class Solution {
         public int minIncrementForUnique(int[] A) {
-            int ans = 0;
+            if (A.length <= 1) {
+                return 0;
+            }
+            Arrays.sort(A);
+            int ans = 0, targetNumber = A[0];
+            for (int i = 1; i < A.length; i++) {
+                if (targetNumber < A[i]) {
+                    targetNumber = A[i];
+                }else {
+                    ans += (targetNumber - A[i]) + 1;
+                    targetNumber++;
+                }
+            }
             return ans;
         }
     }
