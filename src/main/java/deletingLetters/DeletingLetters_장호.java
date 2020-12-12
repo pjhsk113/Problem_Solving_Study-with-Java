@@ -28,24 +28,24 @@ public class DeletingLetters_장호 {
         ans = 2;
         assertThat(solution.minCost(s, cost)).isEqualTo(ans);
     }
+
+    /**
+     * 시간 복잡도 O(n)
+     */
     static class Solution {
         public int minCost(String s, int[] cost) {
             int cnt = 0, index = 0;
             char ss[] = s.toCharArray();
-            ArrayDeque dq = new ArrayDeque();
+            char target = ss[0];
 
-            for (int i = 0; i < s.length();i++) {
-                if (dq.isEmpty()) {
-                    dq.add(ss[i]);
-                    continue;
-                }
-                if (dq.peekLast().equals(ss[i])) {
+            for (int i = 1; i < s.length();i++) {
+                if (target == ss[i]) {
                     cnt += Math.min(cost[index], cost[i]);
                     if (cost[index] < cost[i]) {
                         index = i;
                     }
                 } else {
-                    dq.add(ss[i]);
+                    target = ss[i];
                     index = i;
                 }
             }
