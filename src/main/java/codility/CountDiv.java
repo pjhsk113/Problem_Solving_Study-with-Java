@@ -26,17 +26,14 @@ public class CountDiv {
 
     static class Solution {
         public int solution(int A, int B, int K) {
-            int max = 0;
-            int min = 0;
+            int startValue = A / K;
+            int lastValue = B / K;
             int ans = 0;
 
-            max = (B / K) * K;
-            min = (A / K) * K;
-
             if (A % K == 0) {
-                ans = (max / K) - (min / K) + 1;
+                ans = lastValue - startValue  + 1;
             } else {
-                ans = (max / K) - (min / K);
+                ans = lastValue - startValue;
             }
 
             return ans;
