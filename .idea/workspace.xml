@@ -19,42 +19,50 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:binaryTree_장호" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/problem1/Problem1Mdh$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/problem1/Problem1Mdh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/주식가격_장호$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/주식가격_장호.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/problem1/Problem1Mdh$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/problem1/Problem1Mdh.class" beforeDir="false" />
+    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="[feat] CyclicRotation Solved">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AverageOfLevelsInBinaryTree/AverageOfLevel_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/AverageOfLevelsInBinaryTree/AverageOfLevel_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AverageOfLevelsInBinaryTree/AverageOfLevel_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/AverageOfLevelsInBinaryTree/AverageOfLevel_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InsertInterval/InsertInterval_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/InsertInterval/InsertInterval_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/InsertInterval/InsertInterval_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/InsertInterval/InsertInterval_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MakeArrayUnique/MakeArray_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MakeArrayUnique/MakeArray_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MakeArrayUnique/MakeArray_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MakeArrayUnique/MakeArray_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReduceNumberToZero/Reduce_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReduceNumberToZero/Reduce_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReduceNumberToZero/Reduce_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReduceNumberToZero/Reduce_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/currentNumber/CurrentNumber_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/currentNumber/CurrentNumber_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/deletingLetters/DeletingLetters_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/deletingLetters/DeletingLetters_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kokoEatingBananas/KokoEatingBananas_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/kokoEatingBananas/KokoEatingBananas_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kokoEatingBananas/KokoEatingBananas_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/kokoEatingBananas/KokoEatingBananas_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/perfectSquares/PerfectSquares_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/perfectSquares/PerfectSquares_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/perfectSquares/PerfectSquares_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/perfectSquares/PerfectSquares_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/permutationString/PermutationString_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/permutationString/PermutationString_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/Problem1Mdh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/problem1/Problem1Mdh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem1/perfectsquares/Perfect_Squares_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/problem1/perfectsquares/Perfect_Squares_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/productOfArray/ProductOfArray_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/productOfArray/ProductOfArray_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swapnodesinpairs/swap_nodes_in_pairs_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/swapnodesinpairs/swap_nodes_in_pairs_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swapnodesinpairs/swap_nodes_in_pairs_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/swapnodesinpairs/swap_nodes_in_pairs_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/townJudge/TownJudge_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/townJudge/TownJudge_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tribonaccinumber/TribonacciNumber_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/tribonaccinumber/TribonacciNumber_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/udrl_프로그래머스/UDRL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/udrl_프로그래머스/UDRL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/구명보트/구명보트_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/구명보트/구명보트_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/구명보트/구명보트_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/구명보트/구명보트_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/기능개발/기능개발_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/기능개발/기능개발_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/기능개발/기능개발_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/기능개발/기능개발_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/위장/위장_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/위장/위장_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/위장/위장_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/위장/위장_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/주식가격/주식가격_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/주식가격/주식가격_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/주식가격/주식가격_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/주식가격/주식가격_장호.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/카펫/카펫_동현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/카펫/카펫_동현.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/카펫/카펫_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/카펫/카펫_장호.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +77,22 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Problem_Solving_Study-with-Java" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Problem_Solving_Study-with-Java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -88,7 +109,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="구명보트_장호" />
+        <entry key="$PROJECT_DIR$" value="currentNumber_장호" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -109,7 +130,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -117,23 +138,35 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager">
-    <configuration name="주식가격_장호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="주식가격.주식가격_장호" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="구명보트_장호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="구명보트.구명보트_장호" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Janho\workspace\Problem_Solving_Study-with-Java\src\main\java" />
+      <recent name="C:\Janho\workspace\Problem_Solving_Study-with-Java\src\main\java\MakeArrayUnique" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="프로그래머스" />
+      <recent name="codility" />
+      <recent name="permutationString" />
+      <recent name="InsertInterval" />
+      <recent name="kokoEatingBananas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Janho\workspace\Problem_Solving_Study-with-Java\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.폰켓몬">
+    <configuration name="폰켓몬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.폰켓몬" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="구명보트.*" />
+          <option name="PATTERN" value="프로그래머스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="기능개발_장호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기능개발.기능개발_장호" />
+    <configuration name="BorrowedPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.BorrowedPoint" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="기능개발.*" />
+          <option name="PATTERN" value="codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,30 +187,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="기능개발_장호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="기능개발_장호" />
+    <configuration name="Dominator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.Dominator" />
       <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Fish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.Fish" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="로또_최고순위_최저순위" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.로또_최고순위_최저순위" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="프로그래머스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.주식가격_장호" />
-        <item itemvalue="Application.주식가격_장호" />
+        <item itemvalue="Application.로또_최고순위_최저순위" />
+        <item itemvalue="Application.폰켓몬" />
+        <item itemvalue="Application.BorrowedPoint" />
+        <item itemvalue="Application.Dominator" />
+        <item itemvalue="Application.Fish" />
       </list>
     </recent_temporary>
   </component>
@@ -196,51 +262,395 @@
       <workItem from="1603602369846" duration="2557000" />
       <workItem from="1603796293762" duration="247000" />
       <workItem from="1603796568385" duration="1624000" />
-      <workItem from="1603880791739" duration="794000" />
+      <workItem from="1603880791739" duration="1147000" />
+      <workItem from="1603971031792" duration="2761000" />
+      <workItem from="1604133280092" duration="1479000" />
+      <workItem from="1604138897666" duration="501000" />
+      <workItem from="1604573764217" duration="5425000" />
+      <workItem from="1605094724119" duration="2462000" />
+      <workItem from="1605189829378" duration="346000" />
+      <workItem from="1605338292552" duration="3329000" />
+      <workItem from="1605425914930" duration="2974000" />
+      <workItem from="1605524769625" duration="3674000" />
+      <workItem from="1605612689633" duration="6284000" />
+      <workItem from="1605796159004" duration="474000" />
+      <workItem from="1605870648911" duration="3485000" />
+      <workItem from="1605938781261" duration="11729000" />
+      <workItem from="1606024499501" duration="800000" />
+      <workItem from="1606037269994" duration="628000" />
+      <workItem from="1606224049162" duration="3925000" />
+      <workItem from="1606554423827" duration="15000" />
+      <workItem from="1606826487672" duration="710000" />
+      <workItem from="1606911545928" duration="7000" />
+      <workItem from="1607342550108" duration="188000" />
+      <workItem from="1607435080370" duration="98000" />
+      <workItem from="1607517283423" duration="463000" />
+      <workItem from="1607607671656" duration="695000" />
+      <workItem from="1607769184693" duration="1738000" />
+      <workItem from="1608474572397" duration="3188000" />
+      <workItem from="1608803204582" duration="23000" />
+      <workItem from="1608902690589" duration="797000" />
+      <workItem from="1608964363406" duration="1005000" />
+      <workItem from="1609144517874" duration="479000" />
+      <workItem from="1609229576117" duration="1818000" />
+      <workItem from="1609322242919" duration="237000" />
+      <workItem from="1612949413864" duration="2752000" />
+      <workItem from="1613035285079" duration="2220000" />
+      <workItem from="1613121629491" duration="603000" />
+      <workItem from="1613221506447" duration="949000" />
+      <workItem from="1613304089222" duration="393000" />
+      <workItem from="1613377039812" duration="3705000" />
+      <workItem from="1613482130499" duration="1091000" />
+      <workItem from="1613569932252" duration="1570000" />
+      <workItem from="1613656109002" duration="1284000" />
+      <workItem from="1613742063514" duration="2857000" />
+      <workItem from="1619181032079" duration="645000" />
+      <workItem from="1624766180547" duration="4267000" />
     </task>
-    <task id="LOCAL-00001" summary="[feat] Problem2 - 주식가격">
-      <created>1603289765742</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00007" summary="[delete]">
+      <created>1603881632153</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1603289765742</updated>
+      <updated>1603881632153</updated>
     </task>
-    <task id="LOCAL-00002" summary="[feat] Problem3 - 기능개발">
-      <created>1603530731045</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00008" summary="[add]">
+      <created>1603881892732</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1603530731045</updated>
+      <updated>1603881892732</updated>
     </task>
-    <task id="LOCAL-00003" summary="[change] 파일 위치 변경">
-      <created>1603603327369</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00009" summary="[feat] 위장 solution">
+      <created>1603973021905</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1603603327369</updated>
+      <updated>1603973021905</updated>
     </task>
-    <task id="LOCAL-00004" summary="[feat] Problem4 - 구명보트">
-      <created>1603604340611</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00010" summary="[feat] 카펫 패키지 추가">
+      <created>1604133779598</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1603604340611</updated>
+      <updated>1604133779598</updated>
     </task>
-    <task id="LOCAL-00005" summary="[feat] Problem4 - 구명보트">
-      <created>1603797062437</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00011" summary="[feat] 카펫 solved">
+      <created>1604139327890</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1603797062437</updated>
+      <updated>1604139327891</updated>
     </task>
-    <task id="LOCAL-00006" summary="[feat] Problem5 - 위장 패키지 추가">
-      <created>1603880926172</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00012" summary="[feat] solved&#10;&#10;- 재귀 이용">
+      <created>1604578596182</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1603880926172</updated>
+      <updated>1604578596182</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00013" summary="[feat] 문제 목록 패키지 업데이트">
+      <created>1605096624567</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605096624567</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[feat] 문제 목록 패키지 업데이트">
+      <created>1605096816460</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605096816460</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[feat] solved">
+      <created>1605190150120</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605190150120</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[feat] Average Of Level Binary Tree Solved!!">
+      <created>1605341398162</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605341398162</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[feat] Koko is bad monkey">
+      <created>1605528263459</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605528263459</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[feat] 문제 패키지 업데이트">
+      <created>1605614566924</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605614566924</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[fix] 테스트 케이스 오류 수정">
+      <created>1605618358116</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605618358116</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[feat] Number of Steps to Reduce a Number to Zero Too ez">
+      <created>1605618441839</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605618441839</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[feat] Reduce number solved">
+      <created>1605619025396</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605619025396</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[feat] 풀었지만 5ms로 좋은 풀이는 아닌듯..ㅜㅜ">
+      <created>1605949982540</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605949982540</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[refactor] 이미 정렬된 값이 input으로 들어옴으로 처음 Sort하는 부분 제거&#10;&#10;- 처음 정렬이 되어있는데 또 정렬을 수행해서 runtime을 많이 잡아먹었네요...&#10;이 부분을 수정하니까 5ms -&gt; 2ms로 개선됬습니다. 문제를 잘읽읍시다....">
+      <created>1606024692313</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606024692313</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[feat] Make Array Solved~!">
+      <created>1606227823873</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1606227823873</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[feat] TownJudge Solved">
+      <created>1607342705463</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1607342705463</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[feat] currentNumber Solved">
+      <created>1607435167866</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1607435167866</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[feat] deleting Letters Solved">
+      <created>1607517735464</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1607517735464</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[feat] product of array solved">
+      <created>1607607757791</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1607607757791</updated>
+    </task>
+    <task id="LOCAL-00029" summary="[refactor] deleting letters 코드 개선">
+      <created>1607771323256</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607771323256</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[feat] tribonacciNumber Solved">
+      <created>1608902764843</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1608902764843</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[feat] permutation in String 패키지 추가">
+      <created>1609144657999</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1609144657999</updated>
+    </task>
+    <task id="LOCAL-00032" summary="[feat] 프로그래머스 경로 찾기 문제 중간 커밋">
+      <created>1609144986634</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1609144986634</updated>
+    </task>
+    <task id="LOCAL-00033" summary="[feat] permutation String 1차 커밋">
+      <created>1609322413547</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1609322413547</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[feat] BinaryGap Solved">
+      <created>1612953300845</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1612953300845</updated>
+    </task>
+    <task id="LOCAL-00035" summary="[feat] CyclicRotation Solved">
+      <created>1612953343577</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1612953343577</updated>
+    </task>
+    <task id="LOCAL-00036" summary="[feat] OddOccurrencesInArray Solved">
+      <created>1612953369811</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1612953369811</updated>
+    </task>
+    <task id="LOCAL-00037" summary="[feat] FrogJmp Solved">
+      <created>1613040383814</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1613040383814</updated>
+    </task>
+    <task id="LOCAL-00038" summary="[feat] PermMissingElem Solved">
+      <created>1613040405222</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1613040405222</updated>
+    </task>
+    <task id="LOCAL-00039" summary="[feat] TapeEquilibrium Solved">
+      <created>1613122151812</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1613122151812</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[feat] FrogRiverOne Solved">
+      <created>1613221767403</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1613221767403</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[feat] PermCheck Solved">
+      <created>1613304261176</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1613304261176</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[feat] MissingInteger Solved">
+      <created>1613386197037</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1613386197037</updated>
+    </task>
+    <task id="LOCAL-00043" summary="[feat] MaxCounters Solved">
+      <created>1613386211655</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1613386211655</updated>
+    </task>
+    <task id="LOCAL-00044" summary="[feat] CountDiv Solved">
+      <created>1613386224447</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1613386224447</updated>
+    </task>
+    <task id="LOCAL-00045" summary="[refactor] CountDiv 코드 개선">
+      <created>1613386549419</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1613386549419</updated>
+    </task>
+    <task id="LOCAL-00046" summary="[feat] PassingCars Solved">
+      <created>1613482565345</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1613482565345</updated>
+    </task>
+    <task id="LOCAL-00047" summary="[feat] Distinct Solved">
+      <created>1613482584502</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1613482584502</updated>
+    </task>
+    <task id="LOCAL-00048" summary="[feat] MaxProductOfThree Solved">
+      <created>1613482608776</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1613482608776</updated>
+    </task>
+    <task id="LOCAL-00049" summary="[feat] Triangle Solved">
+      <created>1613482628064</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1613482628064</updated>
+    </task>
+    <task id="LOCAL-00050" summary="[feat] Brackets Solved">
+      <created>1613570064192</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1613570064193</updated>
+    </task>
+    <task id="LOCAL-00051" summary="[feat] NumberOfDiscintersections Solved">
+      <created>1613570089411</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1613570089411</updated>
+    </task>
+    <task id="LOCAL-00052" summary="[feat] Nesting Solved">
+      <created>1613656446690</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1613656446690</updated>
+    </task>
+    <task id="LOCAL-00053" summary="[feat] Fish Solved">
+      <created>1613656461006</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1613656461006</updated>
+    </task>
+    <task id="LOCAL-00054" summary="[feat] Dominator Solved">
+      <created>1613743971430</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1613743971430</updated>
+    </task>
+    <task id="LOCAL-00055" summary="[feat] BorrowedPoint">
+      <created>1619181631230</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1619181631230</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +661,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="binaryTree_장호" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -259,65 +681,81 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat] Problem2 - 주식가격" />
-    <MESSAGE value="[feat] Problem3 - 기능개발" />
-    <MESSAGE value="[change] 파일 위치 변경" />
-    <MESSAGE value="[feat] Problem4 - 구명보트" />
-    <MESSAGE value="[feat] Problem5 - 위장 패키지 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat] Problem5 - 위장 패키지 추가" />
+    <MESSAGE value="[feat] permutation in String 패키지 추가" />
+    <MESSAGE value="[feat] 프로그래머스 경로 찾기 문제 중간 커밋" />
+    <MESSAGE value="[feat] permutation String 1차 커밋" />
+    <MESSAGE value="[feat] BinaryGap Solved" />
+    <MESSAGE value="[feat] CyclicRotation Solved" />
+    <MESSAGE value="[feat] OddOccurrencesInArray Solved" />
+    <MESSAGE value="[feat] FrogJmp Solved" />
+    <MESSAGE value="[feat] PermMissingElem Solved" />
+    <MESSAGE value="[feat] TapeEquilibrium Solved" />
+    <MESSAGE value="[feat] FrogRiverOne Solved" />
+    <MESSAGE value="[feat] PermCheck Solved" />
+    <MESSAGE value="[feat] MissingInteger Solved" />
+    <MESSAGE value="[feat] MaxCounters Solved" />
+    <MESSAGE value="[feat] CountDiv Solved" />
+    <MESSAGE value="[refactor] CountDiv 코드 개선" />
+    <MESSAGE value="[feat] PassingCars Solved" />
+    <MESSAGE value="[feat] Distinct Solved" />
+    <MESSAGE value="[feat] MaxProductOfThree Solved" />
+    <MESSAGE value="[feat] Triangle Solved" />
+    <MESSAGE value="[feat] Brackets Solved" />
+    <MESSAGE value="[feat] NumberOfDiscintersections Solved" />
+    <MESSAGE value="[feat] Nesting Solved" />
+    <MESSAGE value="[feat] Fish Solved" />
+    <MESSAGE value="[feat] Dominator Solved" />
+    <MESSAGE value="[feat] BorrowedPoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat] BorrowedPoint" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="491" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603881264538">
+    <state x="1071" y="33" key="#Auto_Import" timestamp="1624767371925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="491" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603881264538" />
-    <state x="715" y="42" width="1043" height="998" key="CommitChangelistDialog2" timestamp="1603881295029">
+    <state x="1071" y="33" key="#Auto_Import/0.0.1920.1040@0.0.1920.1040" timestamp="1624767371925" />
+    <state x="369" y="34" width="1043" height="998" key="CommitChangelistDialog2" timestamp="1619181630178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="715" y="42" width="1043" height="998" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603881295029" />
-    <state x="0" y="94" width="1536" height="860" key="DiffContextDialog" timestamp="1603881282147">
+    <state x="369" y="34" width="1043" height="998" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1619181630178" />
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1619181683729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="94" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603881282147" />
-    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1603798879684">
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619181683729" />
+    <state width="1184" height="258" key="GridCell.Tab.0.bottom" timestamp="1624768147601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603798879684" />
-    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1603798879684">
+    <state width="1184" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624768147601" />
+    <state width="1184" height="258" key="GridCell.Tab.0.center" timestamp="1624768147601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603798879684" />
-    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1603798879684">
+    <state width="1184" height="258" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624768147601" />
+    <state width="1184" height="258" key="GridCell.Tab.0.left" timestamp="1624768147601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603798879684" />
-    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1603798879684">
+    <state width="1184" height="258" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624768147601" />
+    <state width="1184" height="258" key="GridCell.Tab.0.right" timestamp="1624768147601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603798879684" />
-    <state width="1877" height="292" key="GridCell.Tab.1.bottom" timestamp="1603289837239">
+    <state width="1184" height="258" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624768147601" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1619181633806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="292" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603289837239" />
-    <state width="1877" height="292" key="GridCell.Tab.1.center" timestamp="1603289837239">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="292" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603289837239" />
-    <state width="1877" height="292" key="GridCell.Tab.1.left" timestamp="1603289837239">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="292" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603289837239" />
-    <state width="1877" height="292" key="GridCell.Tab.1.right" timestamp="1603289837239">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="292" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603289837239" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1603286628622">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603286628622" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1603881053088">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603881053088" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619181633806" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codility/NumberOfDiscIntersections.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codility/Fish.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
