@@ -28,7 +28,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="[feat] CyclicRotation Solved">
+    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,20 +128,7 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.시저_암호">
-    <configuration name="실패율" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.실패율" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.이상한_문자_만들기">
     <configuration name="Cote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.Cote" />
       <module name="Problem_Solving_Study-with-Java.main" />
@@ -193,8 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="신규_아이디_추천" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.신규_아이디_추천" />
+    <configuration name="최대공약수와_최소공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.최대공약수와_최소공배수" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -206,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="약수의_개수와_덧셈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.약수의_개수와_덧셈" />
+    <configuration name="이상한_문자_만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.이상한_문자_만들기" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -258,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.이상한_문자_만들기" />
         <item itemvalue="Application.시저_암호" />
         <item itemvalue="Application.Cote" />
         <item itemvalue="Application.JadenCase_문자열_만들기" />
         <item itemvalue="Application.N개의_최소공배수" />
-        <item itemvalue="Application.신규_아이디_추천" />
       </list>
     </recent_temporary>
   </component>
@@ -331,20 +319,9 @@
       <workItem from="1628844155807" duration="3516000" />
       <workItem from="1628914402479" duration="6441000" />
       <workItem from="1628934818380" duration="513000" />
-    </task>
-    <task id="LOCAL-00015" summary="[feat] solved">
-      <created>1605190150120</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1605190150120</updated>
-    </task>
-    <task id="LOCAL-00016" summary="[feat] Average Of Level Binary Tree Solved!!">
-      <created>1605341398162</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1605341398162</updated>
+      <workItem from="1629195714135" duration="905000" />
+      <workItem from="1629278910586" duration="845000" />
+      <workItem from="1629362147516" duration="1591000" />
     </task>
     <task id="LOCAL-00017" summary="[feat] Koko is bad monkey">
       <created>1605528263459</created>
@@ -675,7 +652,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628854119867</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="feat: 프로그래머스 Level1 - 시저암호 solved">
+      <created>1629195989622</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1629195989623</updated>
+    </task>
+    <task id="LOCAL-00065" summary="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법">
+      <created>1629279084807</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1629279084807</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -706,8 +697,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat] TapeEquilibrium Solved" />
-    <MESSAGE value="[feat] FrogRiverOne Solved" />
     <MESSAGE value="[feat] PermCheck Solved" />
     <MESSAGE value="[feat] MissingInteger Solved" />
     <MESSAGE value="[feat] MaxCounters Solved" />
@@ -731,7 +720,9 @@
     <MESSAGE value="[feat] 2019 카카오 블라인드 - 실패율 solved" />
     <MESSAGE value="[feat] 연습문제 - N개의 최소공배수 solved&#10;&#10;- 유클리드 호제법!" />
     <MESSAGE value="[feat] 연습문제 - JadenCase 문자열 만들기 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat] 연습문제 - JadenCase 문자열 만들기 solved" />
+    <MESSAGE value="feat: 프로그래머스 Level1 - 시저암호 solved" />
+    <MESSAGE value="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -747,7 +738,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/Coding.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/시저_암호.java</url>
           <line>52</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
