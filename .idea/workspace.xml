@@ -28,8 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +127,7 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.이상한_문자_만들기">
+  <component name="RunManager" selected="Application.문자열_내_마음대로_정렬하기">
     <configuration name="Cote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.Cote" />
       <module name="Problem_Solving_Study-with-Java.main" />
@@ -144,19 +143,6 @@
     </configuration>
     <configuration name="JadenCase_문자열_만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.JadenCase_문자열_만들기" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N개의_최소공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.N개의_최소공배수" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -233,24 +219,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="문자열_내_마음대로_정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.문자열_내_마음대로_정렬하기" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="프로그래머스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.문자열_내_마음대로_정렬하기" />
         <item itemvalue="Application.이상한_문자_만들기" />
         <item itemvalue="Application.시저_암호" />
         <item itemvalue="Application.Cote" />
         <item itemvalue="Application.JadenCase_문자열_만들기" />
-        <item itemvalue="Application.N개의_최소공배수" />
       </list>
     </recent_temporary>
   </component>
@@ -321,14 +322,8 @@
       <workItem from="1628934818380" duration="513000" />
       <workItem from="1629195714135" duration="905000" />
       <workItem from="1629278910586" duration="845000" />
-      <workItem from="1629362147516" duration="1591000" />
-    </task>
-    <task id="LOCAL-00017" summary="[feat] Koko is bad monkey">
-      <created>1605528263459</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1605528263459</updated>
+      <workItem from="1629362147516" duration="2276000" />
+      <workItem from="1629450620702" duration="1133000" />
     </task>
     <task id="LOCAL-00018" summary="[feat] 문제 패키지 업데이트">
       <created>1605614566924</created>
@@ -666,7 +661,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629279084807</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved">
+      <created>1629364197963</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1629364197964</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -697,7 +699,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat] PermCheck Solved" />
     <MESSAGE value="[feat] MissingInteger Solved" />
     <MESSAGE value="[feat] MaxCounters Solved" />
     <MESSAGE value="[feat] CountDiv Solved" />
@@ -722,7 +723,8 @@
     <MESSAGE value="[feat] 연습문제 - JadenCase 문자열 만들기 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 시저암호 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법" />
+    <MESSAGE value="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
