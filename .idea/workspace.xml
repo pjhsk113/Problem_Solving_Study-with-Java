@@ -28,8 +28,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved">
+    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/체육복.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/체육복.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,9 +128,9 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.문자열_내_마음대로_정렬하기">
-    <configuration name="Cote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.Cote" />
+  <component name="RunManager" selected="Application.크레인_인형_뽑기">
+    <configuration name="체육복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.체육복" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -141,21 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JadenCase_문자열_만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.JadenCase_문자열_만들기" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="시저_암호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.시저_암호" />
+    <configuration name="달력_2016년" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.달력_2016년" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -182,6 +170,19 @@
     </configuration>
     <configuration name="이상한_문자_만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.이상한_문자_만들기" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="프로그래머스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="크레인_인형_뽑기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.크레인_인형_뽑기" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -247,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.크레인_인형_뽑기" />
+        <item itemvalue="Application.달력_2016년" />
+        <item itemvalue="Application.체육복" />
         <item itemvalue="Application.문자열_내_마음대로_정렬하기" />
         <item itemvalue="Application.이상한_문자_만들기" />
-        <item itemvalue="Application.시저_암호" />
-        <item itemvalue="Application.Cote" />
-        <item itemvalue="Application.JadenCase_문자열_만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -323,21 +324,9 @@
       <workItem from="1629195714135" duration="905000" />
       <workItem from="1629278910586" duration="845000" />
       <workItem from="1629362147516" duration="2276000" />
-      <workItem from="1629450620702" duration="1133000" />
-    </task>
-    <task id="LOCAL-00018" summary="[feat] 문제 패키지 업데이트">
-      <created>1605614566924</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1605614566924</updated>
-    </task>
-    <task id="LOCAL-00019" summary="[fix] 테스트 케이스 오류 수정">
-      <created>1605618358116</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1605618358116</updated>
+      <workItem from="1629450620702" duration="1875000" />
+      <workItem from="1629528531880" duration="1099000" />
+      <workItem from="1629605859216" duration="2620000" />
     </task>
     <task id="LOCAL-00020" summary="[feat] Number of Steps to Reduce a Number to Zero Too ez">
       <created>1605618441839</created>
@@ -668,7 +657,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629364197964</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="feat: 프로그래머스 Level1 - 문자열 내 마음대로 정렬하기 solved">
+      <created>1629452352865</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1629452352865</updated>
+    </task>
+    <task id="LOCAL-00068" summary="feat: 프로그래머스 Level1 - 체육복 solved">
+      <created>1629533952790</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1629533952791</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -699,8 +702,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat] MissingInteger Solved" />
-    <MESSAGE value="[feat] MaxCounters Solved" />
     <MESSAGE value="[feat] CountDiv Solved" />
     <MESSAGE value="[refactor] CountDiv 코드 개선" />
     <MESSAGE value="[feat] PassingCars Solved" />
@@ -724,7 +725,9 @@
     <MESSAGE value="feat: 프로그래머스 Level1 - 시저암호 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved" />
+    <MESSAGE value="feat: 프로그래머스 Level1 - 문자열 내 마음대로 정렬하기 solved" />
+    <MESSAGE value="feat: 프로그래머스 Level1 - 체육복 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 Level1 - 체육복 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
