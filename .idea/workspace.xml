@@ -30,7 +30,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/체육복.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/체육복.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,9 +127,35 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.크레인_인형_뽑기">
+  <component name="RunManager" selected="Application.최솟값_최댓값">
     <configuration name="체육복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.체육복" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="프로그래머스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="직업군_추천하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.직업군_추천하기" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="프로그래머스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="최솟값_최댓값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.최솟값_최댓값" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -155,21 +180,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="최대공약수와_최소공배수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.최대공약수와_최소공배수" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="이상한_문자_만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.이상한_문자_만들기" />
+    <configuration name="크레인_인형_뽑기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.크레인_인형_뽑기" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -220,19 +232,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="문자열_내_마음대로_정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.문자열_내_마음대로_정렬하기" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -248,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.최솟값_최댓값" />
+        <item itemvalue="Application.직업군_추천하기" />
         <item itemvalue="Application.크레인_인형_뽑기" />
         <item itemvalue="Application.달력_2016년" />
         <item itemvalue="Application.체육복" />
-        <item itemvalue="Application.문자열_내_마음대로_정렬하기" />
-        <item itemvalue="Application.이상한_문자_만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -326,28 +325,9 @@
       <workItem from="1629362147516" duration="2276000" />
       <workItem from="1629450620702" duration="1875000" />
       <workItem from="1629528531880" duration="1099000" />
-      <workItem from="1629605859216" duration="2620000" />
-    </task>
-    <task id="LOCAL-00020" summary="[feat] Number of Steps to Reduce a Number to Zero Too ez">
-      <created>1605618441839</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1605618441839</updated>
-    </task>
-    <task id="LOCAL-00021" summary="[feat] Reduce number solved">
-      <created>1605619025396</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1605619025396</updated>
-    </task>
-    <task id="LOCAL-00022" summary="[feat] 풀었지만 5ms로 좋은 풀이는 아닌듯..ㅜㅜ">
-      <created>1605949982540</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1605949982540</updated>
+      <workItem from="1629605859216" duration="3218000" />
+      <workItem from="1629721767452" duration="5009000" />
+      <workItem from="1629799315027" duration="1805000" />
     </task>
     <task id="LOCAL-00023" summary="[refactor] 이미 정렬된 값이 input으로 들어옴으로 처음 Sort하는 부분 제거&#10;&#10;- 처음 정렬이 되어있는데 또 정렬을 수행해서 runtime을 많이 잡아먹었네요...&#10;이 부분을 수정하니까 5ms -&gt; 2ms로 개선됬습니다. 문제를 잘읽읍시다....">
       <created>1606024692313</created>
@@ -671,7 +651,28 @@
       <option name="project" value="LOCAL" />
       <updated>1629533952791</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="feat: 프로그래머스 Level1 - 2016년 solved">
+      <created>1629612161455</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1629612161455</updated>
+    </task>
+    <task id="LOCAL-00070" summary="feat: 프로그래머스 Level1 - 크레인 인형 뽑기 solved">
+      <created>1629612184422</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1629612184422</updated>
+    </task>
+    <task id="LOCAL-00071" summary="feat: 프로그래머스 위클리 챌린지 4주차 - 직업군 추천하기 solved">
+      <created>1629728220194</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1629728220196</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -702,9 +703,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat] CountDiv Solved" />
-    <MESSAGE value="[refactor] CountDiv 코드 개선" />
-    <MESSAGE value="[feat] PassingCars Solved" />
     <MESSAGE value="[feat] Distinct Solved" />
     <MESSAGE value="[feat] MaxProductOfThree Solved" />
     <MESSAGE value="[feat] Triangle Solved" />
@@ -727,7 +725,10 @@
     <MESSAGE value="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 문자열 내 마음대로 정렬하기 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 체육복 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 Level1 - 체육복 solved" />
+    <MESSAGE value="feat: 프로그래머스 Level1 - 2016년 solved" />
+    <MESSAGE value="feat: 프로그래머스 Level1 - 크레인 인형 뽑기 solved" />
+    <MESSAGE value="feat: 프로그래머스 위클리 챌린지 4주차 - 직업군 추천하기 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 위클리 챌린지 4주차 - 직업군 추천하기 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -746,6 +747,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/시저_암호.java</url>
           <line>52</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/최솟값_최댓값.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
