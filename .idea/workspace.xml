@@ -28,10 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/최솟값_최댓값.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/최솟값_최댓값.java" afterDir="false" />
-    </list>
+    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -340,14 +337,7 @@
       <workItem from="1629605859216" duration="3218000" />
       <workItem from="1629721767452" duration="5009000" />
       <workItem from="1629799315027" duration="2578000" />
-      <workItem from="1629884958279" duration="1384000" />
-    </task>
-    <task id="LOCAL-00025" summary="[feat] TownJudge Solved">
-      <created>1607342705463</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1607342705463</updated>
+      <workItem from="1629884958279" duration="1665000" />
     </task>
     <task id="LOCAL-00026" summary="[feat] currentNumber Solved">
       <created>1607435167866</created>
@@ -685,7 +675,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629805215048</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="test: 프로그래머스 Level2 - 최솟값_최댓값 테스트 추가">
+      <created>1629888480183</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1629888480183</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -716,7 +713,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat] Triangle Solved" />
     <MESSAGE value="[feat] Brackets Solved" />
     <MESSAGE value="[feat] NumberOfDiscintersections Solved" />
     <MESSAGE value="[feat] Nesting Solved" />
@@ -741,7 +737,8 @@
     <MESSAGE value="feat: 프로그래머스 위클리 챌린지 4주차 - 직업군 추천하기 solved" />
     <MESSAGE value="feat: 프로그래머스 Level2 - 최솟값_최대값 solved" />
     <MESSAGE value="feat: 프로그래머스 Level2 - 최솟값 만들기 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 Level2 - 최솟값 만들기 solved" />
+    <MESSAGE value="test: 프로그래머스 Level2 - 최솟값_최댓값 테스트 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="test: 프로그래머스 Level2 - 최솟값_최댓값 테스트 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
