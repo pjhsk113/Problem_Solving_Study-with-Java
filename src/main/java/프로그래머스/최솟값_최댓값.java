@@ -10,11 +10,11 @@ public class 최솟값_최댓값 {
 
         String s;
         String result;
-//
-//        s = "1 2 3 4";
-//        result = "1 4";
-//
-//        assertThat(solution.solution(s)).isEqualTo(result);
+
+        s = "1 2 3 4";
+        result = "1 4";
+
+        assertThat(solution.solution(s)).isEqualTo(result);
 
         s = "1 3 -4 8 6 9 -5";
         result = "-5 9";
