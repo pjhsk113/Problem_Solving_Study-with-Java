@@ -28,7 +28,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="" />
+    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="test: 프로그래머스 Level2 - 땅따먹기 solved">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +127,7 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.땅따먹기">
+  <component name="RunManager" selected="Application.달력_2016년">
     <configuration name="체육복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.체육복" />
       <module name="Problem_Solving_Study-with-Java.main" />
@@ -243,20 +245,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.땅따먹기" />
         <item itemvalue="Application.직업군_추천하기" />
         <item itemvalue="Application.크레인_인형_뽑기" />
         <item itemvalue="Application.달력_2016년" />
@@ -337,21 +327,8 @@
       <workItem from="1629605859216" duration="3218000" />
       <workItem from="1629721767452" duration="5009000" />
       <workItem from="1629799315027" duration="2578000" />
-      <workItem from="1629884958279" duration="1665000" />
-    </task>
-    <task id="LOCAL-00026" summary="[feat] currentNumber Solved">
-      <created>1607435167866</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1607435167866</updated>
-    </task>
-    <task id="LOCAL-00027" summary="[feat] deleting Letters Solved">
-      <created>1607517735464</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1607517735464</updated>
+      <workItem from="1629884958279" duration="2374000" />
+      <workItem from="1629975384985" duration="1121000" />
     </task>
     <task id="LOCAL-00028" summary="[feat] product of array solved">
       <created>1607607757791</created>
@@ -682,7 +659,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629888480183</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="test: 프로그래머스 Level2 - 숫자의 표현 solved">
+      <created>1629888502664</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1629888502664</updated>
+    </task>
+    <task id="LOCAL-00076" summary="test: 프로그래머스 Level2 - 땅따먹기 solved">
+      <created>1629888514212</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1629888514212</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -713,8 +704,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat] Brackets Solved" />
-    <MESSAGE value="[feat] NumberOfDiscintersections Solved" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="[feat] Nesting Solved" />
     <MESSAGE value="[feat] Fish Solved" />
     <MESSAGE value="[feat] Dominator Solved" />
@@ -738,7 +729,9 @@
     <MESSAGE value="feat: 프로그래머스 Level2 - 최솟값_최대값 solved" />
     <MESSAGE value="feat: 프로그래머스 Level2 - 최솟값 만들기 solved" />
     <MESSAGE value="test: 프로그래머스 Level2 - 최솟값_최댓값 테스트 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="test: 프로그래머스 Level2 - 최솟값_최댓값 테스트 추가" />
+    <MESSAGE value="test: 프로그래머스 Level2 - 숫자의 표현 solved" />
+    <MESSAGE value="test: 프로그래머스 Level2 - 땅따먹기 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="test: 프로그래머스 Level2 - 땅따먹기 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
