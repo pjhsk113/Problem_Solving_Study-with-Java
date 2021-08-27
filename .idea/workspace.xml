@@ -28,7 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="test: 프로그래머스 Level2 - 땅따먹기 solved">
+    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,20 +120,33 @@
       <recent name="C:\Janho\workspace\Problem_Solving_Study-with-Java\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="codility" />
       <recent name="프로그래머스" />
       <recent name="프로그래머스.카펫" />
-      <recent name="codility" />
       <recent name="permutationString" />
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.달력_2016년">
+  <component name="RunManager" selected="Application.LongestPassword">
     <configuration name="체육복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.체육복" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="프로그래머스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.LongestPassword" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,8 +258,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestPassword" />
         <item itemvalue="Application.직업군_추천하기" />
         <item itemvalue="Application.크레인_인형_뽑기" />
         <item itemvalue="Application.달력_2016년" />
@@ -328,14 +355,7 @@
       <workItem from="1629721767452" duration="5009000" />
       <workItem from="1629799315027" duration="2578000" />
       <workItem from="1629884958279" duration="2374000" />
-      <workItem from="1629975384985" duration="1121000" />
-    </task>
-    <task id="LOCAL-00028" summary="[feat] product of array solved">
-      <created>1607607757791</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1607607757791</updated>
+      <workItem from="1629975384985" duration="2572000" />
     </task>
     <task id="LOCAL-00029" summary="[refactor] deleting letters 코드 개선">
       <created>1607771323256</created>
@@ -673,7 +693,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629888514212</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="test: 프로그래머스 Level2 - 다음 큰 숫자 solved">
+      <created>1629978113737</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1629978113737</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -706,7 +733,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[feat] Nesting Solved" />
     <MESSAGE value="[feat] Fish Solved" />
     <MESSAGE value="[feat] Dominator Solved" />
     <MESSAGE value="[feat] BorrowedPoint" />
@@ -731,7 +757,8 @@
     <MESSAGE value="test: 프로그래머스 Level2 - 최솟값_최댓값 테스트 추가" />
     <MESSAGE value="test: 프로그래머스 Level2 - 숫자의 표현 solved" />
     <MESSAGE value="test: 프로그래머스 Level2 - 땅따먹기 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="test: 프로그래머스 Level2 - 땅따먹기 solved" />
+    <MESSAGE value="test: 프로그래머스 Level2 - 다음 큰 숫자 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="test: 프로그래머스 Level2 - 다음 큰 숫자 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
