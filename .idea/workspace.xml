@@ -127,13 +127,13 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestPassword">
-    <configuration name="체육복" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.체육복" />
+  <component name="RunManager" selected="Application.FloodDepth">
+    <configuration name="FloodDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.FloodDepth" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
+          <option name="PATTERN" value="codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloodDepth" />
         <item itemvalue="Application.LongestPassword" />
         <item itemvalue="Application.직업군_추천하기" />
         <item itemvalue="Application.크레인_인형_뽑기" />
         <item itemvalue="Application.달력_2016년" />
-        <item itemvalue="Application.체육복" />
       </list>
     </recent_temporary>
   </component>
@@ -355,14 +355,7 @@
       <workItem from="1629721767452" duration="5009000" />
       <workItem from="1629799315027" duration="2578000" />
       <workItem from="1629884958279" duration="2374000" />
-      <workItem from="1629975384985" duration="2572000" />
-    </task>
-    <task id="LOCAL-00029" summary="[refactor] deleting letters 코드 개선">
-      <created>1607771323256</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1607771323256</updated>
+      <workItem from="1629975384985" duration="7360000" />
     </task>
     <task id="LOCAL-00030" summary="[feat] tribonacciNumber Solved">
       <created>1608902764843</created>
@@ -700,7 +693,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629978113737</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="feat: Codility Easy - LongestPassword solved">
+      <created>1630062169211</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1630062169211</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -733,7 +733,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[feat] Fish Solved" />
     <MESSAGE value="[feat] Dominator Solved" />
     <MESSAGE value="[feat] BorrowedPoint" />
     <MESSAGE value="[feat] 프로그래머스 위클리챌린지" />
@@ -758,7 +757,8 @@
     <MESSAGE value="test: 프로그래머스 Level2 - 숫자의 표현 solved" />
     <MESSAGE value="test: 프로그래머스 Level2 - 땅따먹기 solved" />
     <MESSAGE value="test: 프로그래머스 Level2 - 다음 큰 숫자 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="test: 프로그래머스 Level2 - 다음 큰 숫자 solved" />
+    <MESSAGE value="feat: Codility Easy - LongestPassword solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Codility Easy - LongestPassword solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -777,6 +777,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/시저_암호.java</url>
           <line>52</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/codility/Ddd.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/달력_2016년.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
