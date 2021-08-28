@@ -21,39 +21,31 @@ public class FloodDepth {
 
     static class Solution {
         public int solution(int[] A) {
-            int answer = 0;
             if (A.length <= 2) {
                 return 0;
             }
 
-            int start = A[0];
-            int end = A[0];
-            int min = Integer.MAX_VALUE;
-            int cnt = 0;
+            int lowestIdx = 0;
+            int highestIdx = 0;
+            int max = 0;
 
             for (int i = 1; i < A.length; i++) {
-                if(A[i-1] < A[i]) {
-                    if (start <= A[i]) {
-                        if (cnt > 0) {
-                            answer = Math.max(answer, start - min);
-                        }
-                        start = A[i];
-                    } else {
-                        cnt++;
-                        if (cnt > 0) {
-                            answer = Math.max(answer, start - min);
-                        }
-//                        min = Math.min(min, A[i]);
-                    }
+                int current = A[i];
+                int highest = A[highestIdx];
+                int lowest = A[lowestIdx];
 
-                } else {
-                    cnt++;
-                    min = Math.min(min, A[i]);
-                    end = A[i];
+                if (current > highest) {
+                    max = Math.max(highest - lowest, max);
+                    highestIdx = i;
+                    lowestIdx = highestIdx;
+                } else if (current > lowest) {
+                    max = Math.max(current - lowest, max);
+                } else if (current < lowest) {
+                    lowestIdx = i;
                 }
             }
 
-            return answer;
+            return max;
         }
     }
 }
