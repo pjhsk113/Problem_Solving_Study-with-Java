@@ -120,16 +120,29 @@
       <recent name="C:\Janho\workspace\Problem_Solving_Study-with-Java\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="codility" />
       <recent name="프로그래머스" />
+      <recent name="codility" />
       <recent name="프로그래머스.카펫" />
       <recent name="permutationString" />
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinAvgTwoSlice">
-    <configuration name="FloodDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.FloodDepth" />
+  <component name="RunManager" selected="Application.CodingTest1">
+    <configuration name="모음사전" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.모음사전" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="프로그래머스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.CodingTest" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +154,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.LongestPassword" />
+    <configuration name="CodingTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.CodingTest1" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodingTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.CodingTest2" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -160,58 +186,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="직업군_추천하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.직업군_추천하기" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="최솟값_최댓값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.최솟값_최댓값" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="크레인_인형_뽑기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.크레인_인형_뽑기" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="크레인_인형_뽑기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.크레인_인형_뽑기" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,24 +219,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.모음사전" />
+        <item itemvalue="Application.CodingTest2" />
+        <item itemvalue="Application.CodingTest1" />
+        <item itemvalue="Application.CodingTest" />
         <item itemvalue="Application.MinAvgTwoSlice" />
-        <item itemvalue="Application.FloodDepth" />
-        <item itemvalue="Application.LongestPassword" />
-        <item itemvalue="Application.직업군_추천하기" />
-        <item itemvalue="Application.크레인_인형_뽑기" />
       </list>
     </recent_temporary>
   </component>
@@ -341,21 +317,10 @@
       <workItem from="1629799315027" duration="2578000" />
       <workItem from="1629884958279" duration="2374000" />
       <workItem from="1629975384985" duration="7605000" />
-      <workItem from="1630130100471" duration="1709000" />
-    </task>
-    <task id="LOCAL-00032" summary="[feat] 프로그래머스 경로 찾기 문제 중간 커밋">
-      <created>1609144986634</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1609144986634</updated>
-    </task>
-    <task id="LOCAL-00033" summary="[feat] permutation String 1차 커밋">
-      <created>1609322413547</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1609322413547</updated>
+      <workItem from="1630130100471" duration="2384000" />
+      <workItem from="1630215643585" duration="5046000" />
+      <workItem from="1630225909714" duration="1903000" />
+      <workItem from="1630403564231" duration="1597000" />
     </task>
     <task id="LOCAL-00034" summary="[feat] BinaryGap Solved">
       <created>1612953300845</created>
@@ -686,7 +651,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630131508439</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="feat: Codility Hard - MinAvgTwoSlice solved">
+      <created>1630156400994</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1630156400994</updated>
+    </task>
+    <task id="LOCAL-00082" summary="feat: 프로그래머스 위클리 챌린지 5주차 - 모음사전">
+      <created>1630404476782</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1630404476782</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -719,8 +698,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[feat] 프로그래머스 위클리챌린지" />
-    <MESSAGE value="[feat] 코딩테스트 - 두개뽑아서 더하기 solved" />
     <MESSAGE value="[feat] 코딩테스트 준비- 코드챌린지 삼진법_뒤집기 solved" />
     <MESSAGE value="[feat] 위클리 챌린지 2주차 - 상호평가 solved" />
     <MESSAGE value="[feat] 프로그래머스 2021 블라인드 테스트 - 신규 아이디 추천 solved" />
@@ -744,7 +721,9 @@
     <MESSAGE value="feat: Codility Easy - LongestPassword solved" />
     <MESSAGE value="feat: Codility Medium - FloodDepth failed...&#10;&#10;- 내일 다시 풀어보자." />
     <MESSAGE value="feat: Codility Medium - FloodDepth solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Codility Medium - FloodDepth solved" />
+    <MESSAGE value="feat: Codility Hard - MinAvgTwoSlice solved" />
+    <MESSAGE value="feat: 프로그래머스 위클리 챌린지 5주차 - 모음사전" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 위클리 챌린지 5주차 - 모음사전" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
