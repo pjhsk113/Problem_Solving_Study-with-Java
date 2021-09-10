@@ -108,6 +108,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
@@ -127,7 +128,7 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CodingTest1">
+  <component name="RunManager" selected="Application.N진수_게임">
     <configuration name="모음사전" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.모음사전" />
       <module name="Problem_Solving_Study-with-Java.main" />
@@ -141,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.CodingTest" />
+    <configuration name="N진수_게임" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.N진수_게임" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.*" />
+          <option name="PATTERN" value="프로그래머스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodingTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.CodingTest1" />
+    <configuration name="올바른_괄호" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.올바른_괄호" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.*" />
+          <option name="PATTERN" value="프로그래머스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodingTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.CodingTest2" />
+    <configuration name="복서_정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.복서_정렬하기" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.*" />
+          <option name="PATTERN" value="프로그래머스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,21 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinAvgTwoSlice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.MinAvgTwoSlice" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="부족한_금액_계산하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.부족한_금액_계산하기" />
+    <configuration name="게임_맵_최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.게임_맵_최단거리" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -234,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N진수_게임" />
+        <item itemvalue="Application.복서_정렬하기" />
+        <item itemvalue="Application.게임_맵_최단거리" />
+        <item itemvalue="Application.올바른_괄호" />
         <item itemvalue="Application.모음사전" />
-        <item itemvalue="Application.CodingTest2" />
-        <item itemvalue="Application.CodingTest1" />
-        <item itemvalue="Application.CodingTest" />
-        <item itemvalue="Application.MinAvgTwoSlice" />
       </list>
     </recent_temporary>
   </component>
@@ -320,28 +308,9 @@
       <workItem from="1630130100471" duration="2384000" />
       <workItem from="1630215643585" duration="5046000" />
       <workItem from="1630225909714" duration="1903000" />
-      <workItem from="1630403564231" duration="1597000" />
-    </task>
-    <task id="LOCAL-00034" summary="[feat] BinaryGap Solved">
-      <created>1612953300845</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1612953300845</updated>
-    </task>
-    <task id="LOCAL-00035" summary="[feat] CyclicRotation Solved">
-      <created>1612953343577</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1612953343577</updated>
-    </task>
-    <task id="LOCAL-00036" summary="[feat] OddOccurrencesInArray Solved">
-      <created>1612953369811</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1612953369811</updated>
+      <workItem from="1630403564231" duration="2273000" />
+      <workItem from="1630501720206" duration="713000" />
+      <workItem from="1631266937754" duration="7774000" />
     </task>
     <task id="LOCAL-00037" summary="[feat] FrogJmp Solved">
       <created>1613040383814</created>
@@ -665,7 +634,28 @@
       <option name="project" value="LOCAL" />
       <updated>1630404476782</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="feat: 프로그래머스 Level2 - 올바른 괄호 solved">
+      <created>1630410866011</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1630410866011</updated>
+    </task>
+    <task id="LOCAL-00084" summary="feat: 프로그래머스 Level2 - 게임 맵 최단거리 solved">
+      <created>1630502053470</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1630502053471</updated>
+    </task>
+    <task id="LOCAL-00085" summary="feat: 프로그래머스 위클리 챌린지 6주차 - 복서 정렬하기 solved">
+      <created>1631279512721</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1631279512721</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -698,9 +688,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[feat] 코딩테스트 준비- 코드챌린지 삼진법_뒤집기 solved" />
-    <MESSAGE value="[feat] 위클리 챌린지 2주차 - 상호평가 solved" />
-    <MESSAGE value="[feat] 프로그래머스 2021 블라인드 테스트 - 신규 아이디 추천 solved" />
     <MESSAGE value="[feat] 2019 카카오 블라인드 - 실패율 solved" />
     <MESSAGE value="[feat] 연습문제 - N개의 최소공배수 solved&#10;&#10;- 유클리드 호제법!" />
     <MESSAGE value="[feat] 연습문제 - JadenCase 문자열 만들기 solved" />
@@ -723,7 +710,10 @@
     <MESSAGE value="feat: Codility Medium - FloodDepth solved" />
     <MESSAGE value="feat: Codility Hard - MinAvgTwoSlice solved" />
     <MESSAGE value="feat: 프로그래머스 위클리 챌린지 5주차 - 모음사전" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 위클리 챌린지 5주차 - 모음사전" />
+    <MESSAGE value="feat: 프로그래머스 Level2 - 올바른 괄호 solved" />
+    <MESSAGE value="feat: 프로그래머스 Level2 - 게임 맵 최단거리 solved" />
+    <MESSAGE value="feat: 프로그래머스 위클리 챌린지 6주차 - 복서 정렬하기 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 위클리 챌린지 6주차 - 복서 정렬하기 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -752,6 +742,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/달력_2016년.java</url>
           <line>30</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/복서_정렬하기.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/N진수_게임.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
