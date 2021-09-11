@@ -128,7 +128,7 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KaKaoCodingTest4">
+  <component name="RunManager">
     <configuration name="KaKaoCodingTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.KaKaoCodingTest2" />
       <module name="Problem_Solving_Study-with-Java.main" />
@@ -155,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KaKaoCodingTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.KaKaoCodingTest4" />
+    <configuration name="KaKaoCodingTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.KaKaoCodingTest6" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -233,7 +233,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KaKaoCodingTest4" />
+        <item itemvalue="Application.KaKaoCodingTest6" />
         <item itemvalue="Application.KaKaoCodingTest3" />
         <item itemvalue="Application.KaKaoCodingTest2" />
         <item itemvalue="Application.KakaoCodingTest1" />
