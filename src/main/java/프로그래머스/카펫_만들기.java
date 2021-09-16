@@ -2,7 +2,7 @@ package 프로그래머스;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class 카펫 {
+public class 카펫_만들기 {
     public static void main(String[] args) {
         Solution solution = new Solution();
 

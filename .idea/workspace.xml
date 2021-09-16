@@ -30,6 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/카펫.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/카펫_만들기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,23 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Problem_Solving_Study-with-Java" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Problem_Solving_Study-with-Java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Problem_Solving_Study-with-Java" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -122,13 +139,13 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="프로그래머스" />
-      <recent name="codility" />
       <recent name="프로그래머스.카펫" />
+      <recent name="codility" />
       <recent name="permutationString" />
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.입실_퇴실">
     <configuration name="KaKaoCodingTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.KaKaoCodingTest2" />
       <module name="Problem_Solving_Study-with-Java.main" />
@@ -168,47 +185,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KakaoCodingTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.KakaoCodingTest1" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LineCodingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.LineCodingTest" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="복서_정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.복서_정렬하기" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="두개_뽑아서_더하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.두개_뽑아서_더하기" />
+    <configuration name="입실_퇴실" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.입실_퇴실" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -231,13 +209,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_Solving_Study-with-Java [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.입실_퇴실" />
+        <item itemvalue="Gradle.Problem_Solving_Study-with-Java [clean]" />
         <item itemvalue="Application.KaKaoCodingTest6" />
         <item itemvalue="Application.KaKaoCodingTest3" />
         <item itemvalue="Application.KaKaoCodingTest2" />
-        <item itemvalue="Application.KakaoCodingTest1" />
-        <item itemvalue="Application.LineCodingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -322,42 +321,9 @@
       <workItem from="1630403564231" duration="2273000" />
       <workItem from="1630501720206" duration="713000" />
       <workItem from="1631266937754" duration="8363000" />
-      <workItem from="1631319296664" duration="26444000" />
-    </task>
-    <task id="LOCAL-00038" summary="[feat] PermMissingElem Solved">
-      <created>1613040405222</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1613040405222</updated>
-    </task>
-    <task id="LOCAL-00039" summary="[feat] TapeEquilibrium Solved">
-      <created>1613122151812</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1613122151812</updated>
-    </task>
-    <task id="LOCAL-00040" summary="[feat] FrogRiverOne Solved">
-      <created>1613221767403</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1613221767403</updated>
-    </task>
-    <task id="LOCAL-00041" summary="[feat] PermCheck Solved">
-      <created>1613304261176</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1613304261176</updated>
-    </task>
-    <task id="LOCAL-00042" summary="[feat] MissingInteger Solved">
-      <created>1613386197037</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1613386197037</updated>
+      <workItem from="1631319296664" duration="26553000" />
+      <workItem from="1631621068472" duration="280000" />
+      <workItem from="1631797808661" duration="3942000" />
     </task>
     <task id="LOCAL-00043" summary="[feat] MaxCounters Solved">
       <created>1613386211655</created>
@@ -667,7 +633,42 @@
       <option name="project" value="LOCAL" />
       <updated>1631281256259</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="feat: 카카오 2021 블라인드 코딩테스트 1번 solved">
+      <created>1631354777746</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1631354777747</updated>
+    </task>
+    <task id="LOCAL-00088" summary="feat: 카카오 2021 블라인드 코딩테스트 2번 solved">
+      <created>1631354785658</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1631354785658</updated>
+    </task>
+    <task id="LOCAL-00089" summary="feat: 카카오 2021 블라인드 코딩테스트 3번 solved">
+      <created>1631354793204</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1631354793204</updated>
+    </task>
+    <task id="LOCAL-00090" summary="feat: 카카오 2021 블라인드 코딩테스트 6번&#10;- 정확성만 통과 효율성 폭망!">
+      <created>1631354834127</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1631354834127</updated>
+    </task>
+    <task id="LOCAL-00091" summary="feat: 프로그래머스 완전탐색 - 카펫 solved">
+      <created>1631621339812</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1631621339812</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -700,11 +701,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="[feat] 연습문제 - N개의 최소공배수 solved&#10;&#10;- 유클리드 호제법!" />
-    <MESSAGE value="[feat] 연습문제 - JadenCase 문자열 만들기 solved" />
-    <MESSAGE value="feat: 프로그래머스 Level1 - 시저암호 solved" />
-    <MESSAGE value="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법" />
-    <MESSAGE value="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 문자열 내 마음대로 정렬하기 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 체육복 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 2016년 solved" />
@@ -725,7 +721,12 @@
     <MESSAGE value="feat: 프로그래머스 Level2 - 게임 맵 최단거리 solved" />
     <MESSAGE value="feat: 프로그래머스 위클리 챌린지 6주차 - 복서 정렬하기 solved" />
     <MESSAGE value="feat: 프로그래머스 Level2 - N진수 게임 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 Level2 - N진수 게임 solved" />
+    <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 1번 solved" />
+    <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 2번 solved" />
+    <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 3번 solved" />
+    <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 6번&#10;- 정확성만 통과 효율성 폭망!" />
+    <MESSAGE value="feat: 프로그래머스 완전탐색 - 카펫 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 완전탐색 - 카펫 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
