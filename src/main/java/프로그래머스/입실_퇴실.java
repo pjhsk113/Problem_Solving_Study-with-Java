@@ -21,11 +21,11 @@ public class 입실_퇴실 {
 //
 //        assertThat(solution.solution(enter, leave)).isEqualTo(result);
 
-//        enter = new int[]{1,4,2,3};
-//        leave = new int[]{2,1,3,4};
-//        result = new int[]{2,2,1,3};
-//
-//        assertThat(solution.solution(enter, leave)).isEqualTo(result);
+        enter = new int[]{1,4,2,3};
+        leave = new int[]{2,1,3,4};
+        result = new int[]{2,2,1,3};
+
+        assertThat(solution.solution(enter, leave)).isEqualTo(result);
 
         enter = new int[]{3,2,1};
         leave = new int[]{2,1,3};
@@ -71,7 +71,7 @@ public class 입실_퇴실 {
                     continue;
                 }
                 for (int j =1; j < meet[i].length; j++) {
-                    meet[j] = new int[]{i};
+                    meet[meet[i][j]] = meet[i];
                 }
             }
             for (int[] i : meet) {

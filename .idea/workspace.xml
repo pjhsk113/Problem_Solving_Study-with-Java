@@ -30,7 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/카펫.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/카펫_만들기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/입실_퇴실.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/입실_퇴실.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,39 +145,39 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.입실_퇴실">
-    <configuration name="KaKaoCodingTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.KaKaoCodingTest2" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KaKaoCodingTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.KaKaoCodingTest3" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NaverClovaCodingTest3">
     <configuration name="KaKaoCodingTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.KaKaoCodingTest6" />
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.코딩테스트.KaKaoCodingTest6" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
+          <option name="PATTERN" value="프로그래머스.코딩테스트.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaverClovaCodingTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.NaverClovaCodingTest2" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="프로그래머스.코딩테스트.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaverClovaCodingTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.NaverClovaCodingTest3" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="프로그래머스.코딩테스트.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,7 +190,7 @@
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="프로그래머스.*" />
+          <option name="PATTERN" value="프로그래머스.코딩테스트.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,13 +198,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -232,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NaverClovaCodingTest3" />
+        <item itemvalue="Application.NaverClovaCodingTest2" />
         <item itemvalue="Application.입실_퇴실" />
         <item itemvalue="Gradle.Problem_Solving_Study-with-Java [clean]" />
         <item itemvalue="Application.KaKaoCodingTest6" />
-        <item itemvalue="Application.KaKaoCodingTest3" />
-        <item itemvalue="Application.KaKaoCodingTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -323,21 +325,9 @@
       <workItem from="1631266937754" duration="8363000" />
       <workItem from="1631319296664" duration="26553000" />
       <workItem from="1631621068472" duration="280000" />
-      <workItem from="1631797808661" duration="3942000" />
-    </task>
-    <task id="LOCAL-00043" summary="[feat] MaxCounters Solved">
-      <created>1613386211655</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1613386211655</updated>
-    </task>
-    <task id="LOCAL-00044" summary="[feat] CountDiv Solved">
-      <created>1613386224447</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1613386224447</updated>
+      <workItem from="1631797808661" duration="5204000" />
+      <workItem from="1632042650311" duration="237000" />
+      <workItem from="1632051530568" duration="3267000" />
     </task>
     <task id="LOCAL-00045" summary="[refactor] CountDiv 코드 개선">
       <created>1613386549419</created>
@@ -668,7 +658,21 @@
       <option name="project" value="LOCAL" />
       <updated>1631621339812</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="fix: 클래스명 오류 수정">
+      <created>1631801898878</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1631801898879</updated>
+    </task>
+    <task id="LOCAL-00093" summary="feat: 프로그래머스 위클리 챌린지 7주차 - 입실 퇴실&#10;&#10;- 아직 못품">
+      <created>1631801937430</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1631801937430</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -701,8 +705,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="feat: 프로그래머스 Level1 - 문자열 내 마음대로 정렬하기 solved" />
-    <MESSAGE value="feat: 프로그래머스 Level1 - 체육복 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 2016년 solved" />
     <MESSAGE value="feat: 프로그래머스 Level1 - 크레인 인형 뽑기 solved" />
     <MESSAGE value="feat: 프로그래머스 위클리 챌린지 4주차 - 직업군 추천하기 solved" />
@@ -726,7 +728,9 @@
     <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 3번 solved" />
     <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 6번&#10;- 정확성만 통과 효율성 폭망!" />
     <MESSAGE value="feat: 프로그래머스 완전탐색 - 카펫 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 완전탐색 - 카펫 solved" />
+    <MESSAGE value="fix: 클래스명 오류 수정" />
+    <MESSAGE value="feat: 프로그래머스 위클리 챌린지 7주차 - 입실 퇴실&#10;&#10;- 아직 못품" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 프로그래머스 위클리 챌린지 7주차 - 입실 퇴실&#10;&#10;- 아직 못품" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -765,6 +769,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/N진수_게임.java</url>
           <line>47</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/NaverClovaCodingTest2.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/프로그래머스/NaverClovaCodingTest2.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
