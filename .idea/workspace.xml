@@ -145,7 +145,7 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NaverClovaCodingTest3">
+  <component name="RunManager" selected="Gradle.Problem_Solving_Study-with-Java [clean]">
     <configuration name="KaKaoCodingTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.코딩테스트.KaKaoCodingTest6" />
       <module name="Problem_Solving_Study-with-Java.main" />
@@ -160,7 +160,7 @@
       </method>
     </configuration>
     <configuration name="NaverClovaCodingTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.NaverClovaCodingTest2" />
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.코딩테스트.NaverClovaCodingTest2" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -173,7 +173,7 @@
       </method>
     </configuration>
     <configuration name="NaverClovaCodingTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.NaverClovaCodingTest3" />
+      <option name="MAIN_CLASS_NAME" value="프로그래머스.코딩테스트.NaverClovaCodingTest3" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -234,10 +234,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Problem_Solving_Study-with-Java [clean]" />
         <item itemvalue="Application.NaverClovaCodingTest3" />
         <item itemvalue="Application.NaverClovaCodingTest2" />
         <item itemvalue="Application.입실_퇴실" />
-        <item itemvalue="Gradle.Problem_Solving_Study-with-Java [clean]" />
         <item itemvalue="Application.KaKaoCodingTest6" />
       </list>
     </recent_temporary>
