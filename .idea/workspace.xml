@@ -30,47 +30,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/JadenCase_문자열_만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/JadenCase_문자열_만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/N개의_최소공배수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/N개의_최소공배수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/N진수_게임.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/N진수_게임.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/게임_맵_최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/게임_맵_최단거리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/구명보트/구명보트_동현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/구명보트/구명보트_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/구명보트.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/기능개발/기능개발_동현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/기능개발/기능개발_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/기능개발.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/다음_큰_숫자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/다음_큰_숫자.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/달력_2016년.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/달력_2016년.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/두개_뽑아서_더하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/두개_뽑아서_더하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/땅따먹기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/땅따먹기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/로또_최고순위_최저순위.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/로또_최고순위_최저순위.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/모음사전.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/위클리챌린지/모음사전.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/문자열_내_마음대로_정렬하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/문자열_내_마음대로_정렬하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/복서_정렬하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/위클리챌린지/복서_정렬하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/부족한_금액_계산하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/위클리챌린지/부족한_금액_계산하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/삼진법_뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/삼진법_뒤집기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/상호평가.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/위클리챌린지/상호평가.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/숫자의_표현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/숫자의_표현.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/시저_암호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/시저_암호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/신규_아이디_추천.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/신규_아이디_추천.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/실패율.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/실패율.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/약수의_개수와_덧셈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/약수의_개수와_덧셈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/올바른_괄호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/올바른_괄호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/위장/위장_동현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/위장/위장_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/위장.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/이상한_문자_만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/이상한_문자_만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/입실_퇴실.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/위클리챌린지/입실_퇴실.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/주식가격/주식가격_동현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/주식가격/주식가격_장호.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/주식가격_장호.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/직업군_추천하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/위클리챌린지/직업군_추천하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/체육복.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/체육복.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/최대공약수와_최소공배수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/최대공약수와_최소공배수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/최솟값_최댓값.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/최솟값_최댓값.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/최솟값만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/최솟값만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/카펫/카펫_동현.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/카펫/카펫_장호.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/카펫_만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level2/카펫_만들기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/크레인_인형_뽑기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/크레인_인형_뽑기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/프로그래머스/폰켓몬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/프로그래머스/level1/폰켓몬.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,13 +144,26 @@
       <recent name="InsertInterval" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.최소직사각형">
+  <component name="RunManager" selected="Application.토마토">
     <configuration name="최소직사각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.위클리챌린지.최소직사각형" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="프로그래머스.위클리챌린지.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.bfs.토마토" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,19 +186,6 @@
     </configuration>
     <configuration name="NaverClovaCodingTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.코딩테스트.NaverClovaCodingTest3" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.위클리챌린지.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="입실_퇴실" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.위클리챌린지.입실_퇴실" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
@@ -272,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.토마토" />
         <item itemvalue="Application.최소직사각형" />
         <item itemvalue="Gradle.Problem_Solving_Study-with-Java [clean]" />
         <item itemvalue="Application.NaverClovaCodingTest3" />
         <item itemvalue="Application.NaverClovaCodingTest2" />
-        <item itemvalue="Application.입실_퇴실" />
       </list>
     </recent_temporary>
   </component>
@@ -367,14 +326,10 @@
       <workItem from="1632042650311" duration="237000" />
       <workItem from="1632051530568" duration="3267000" />
       <workItem from="1632562155510" duration="283000" />
-      <workItem from="1633598654630" duration="2547000" />
-    </task>
-    <task id="LOCAL-00048" summary="[feat] MaxProductOfThree Solved">
-      <created>1613482608776</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1613482608776</updated>
+      <workItem from="1633598654630" duration="3799000" />
+      <workItem from="1633609898080" duration="21000" />
+      <workItem from="1633609937153" duration="123000" />
+      <workItem from="1634128531853" duration="3840000" />
     </task>
     <task id="LOCAL-00049" summary="[feat] Triangle Solved">
       <created>1613482628064</created>
@@ -712,7 +667,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632562430485</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="feat: 위클리 챌린지 8주차 - 최소직사각형 solved">
+      <created>1633601498934</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1633601498935</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -745,7 +707,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="feat: 프로그래머스 Level2 - 최솟값_최대값 solved" />
     <MESSAGE value="feat: 프로그래머스 Level2 - 최솟값 만들기 solved" />
     <MESSAGE value="test: 프로그래머스 Level2 - 최솟값_최댓값 테스트 추가" />
     <MESSAGE value="test: 프로그래머스 Level2 - 숫자의 표현 solved" />
@@ -770,7 +731,8 @@
     <MESSAGE value="feat: 라인 1번" />
     <MESSAGE value="feat: 네이버 Clova - 1~3번" />
     <MESSAGE value="feat: 패키지변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 패키지변경" />
+    <MESSAGE value="feat: 위클리 챌린지 8주차 - 최소직사각형 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 위클리 챌린지 8주차 - 최소직사각형 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
