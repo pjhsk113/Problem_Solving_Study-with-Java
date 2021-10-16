@@ -28,7 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="">
+    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="feat: 데브매칭">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,20 +144,7 @@
       <recent name="permutationString" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Problem_Solving_Study-with-Java [clean]">
-    <configuration name="최소직사각형" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.위클리챌린지.최소직사각형" />
-      <module name="Problem_Solving_Study-with-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="프로그래머스.위클리챌린지.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.안전_영역">
     <configuration name="DevMatching01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="프로그래머스.코딩테스트.DevMatching01" />
       <module name="Problem_Solving_Study-with-Java.main" />
@@ -223,6 +210,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="안전_영역" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.dfs.안전_영역" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -233,6 +233,27 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="Problem_Solving_Study-with-Java [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="Problem_Solving_Study-with-Java [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -257,10 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.안전_영역" />
+        <item itemvalue="Gradle.Problem_Solving_Study-with-Java [build]" />
         <item itemvalue="Gradle.Problem_Solving_Study-with-Java [clean]" />
         <item itemvalue="Application.DevMatching01" />
         <item itemvalue="Application.쉬운_최단거리" />
-        <item itemvalue="Application.최소직사각형" />
       </list>
     </recent_temporary>
   </component>
@@ -358,13 +380,7 @@
       <workItem from="1634210602014" duration="4805000" />
       <workItem from="1634298827916" duration="4038000" />
       <workItem from="1634359487697" duration="6110000" />
-    </task>
-    <task id="LOCAL-00055" summary="[feat] BorrowedPoint">
-      <created>1619181631230</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1619181631230</updated>
+      <workItem from="1634377078455" duration="2149000" />
     </task>
     <task id="LOCAL-00056" summary="[feat] 프로그래머스 위클리챌린지">
       <created>1628251597738</created>
@@ -702,7 +718,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634304141639</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="feat: 데브매칭">
+      <created>1634377167409</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1634377167409</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -735,7 +758,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="feat: Codility Medium - FloodDepth failed...&#10;&#10;- 내일 다시 풀어보자." />
     <MESSAGE value="feat: Codility Medium - FloodDepth solved" />
     <MESSAGE value="feat: Codility Hard - MinAvgTwoSlice solved" />
     <MESSAGE value="feat: 프로그래머스 위클리 챌린지 5주차 - 모음사전" />
@@ -760,7 +782,8 @@
     <MESSAGE value="change: 클래스명 변경&#10;&#10;- 토마토 -&gt; 단지번호붙이기" />
     <MESSAGE value="feat: 백준 bfs - 2178번 미로탐색 solved" />
     <MESSAGE value="feat: 백준 bfs - 7576번 토마토 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 bfs - 7576번 토마토 solved" />
+    <MESSAGE value="feat: 데브매칭" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 데브매칭" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
