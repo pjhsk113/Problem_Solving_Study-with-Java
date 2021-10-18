@@ -144,7 +144,7 @@
       <recent name="permutationString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.섬의개수">
+  <component name="RunManager" selected="Application.알파벳">
     <configuration name="바닥장식" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.dfs.바닥장식" />
       <module name="Problem_Solving_Study-with-Java.main" />
@@ -171,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DevMatching01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="프로그래머스.코딩테스트.DevMatching01" />
+    <configuration name="알파벳" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.bfs.알파벳" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="프로그래머스.코딩테스트.*" />
+          <option name="PATTERN" value="백준.bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.알파벳" />
         <item itemvalue="Application.섬의개수" />
         <item itemvalue="Application.바닥장식" />
         <item itemvalue="Gradle.Problem_Solving_Study-with-Java [build]" />
         <item itemvalue="Gradle.Problem_Solving_Study-with-Java [clean]" />
-        <item itemvalue="Application.DevMatching01" />
       </list>
     </recent_temporary>
   </component>
@@ -382,14 +382,7 @@
       <workItem from="1634359487697" duration="6110000" />
       <workItem from="1634377078455" duration="2346000" />
       <workItem from="1634453781278" duration="6274000" />
-      <workItem from="1634554681511" duration="4325000" />
-    </task>
-    <task id="LOCAL-00060" summary="[feat] 프로그래머스 2021 블라인드 테스트 - 신규 아이디 추천 solved">
-      <created>1628844490097</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1628844490098</updated>
+      <workItem from="1634554681511" duration="7320000" />
     </task>
     <task id="LOCAL-00061" summary="[feat] 2019 카카오 블라인드 - 실패율 solved">
       <created>1628848548853</created>
@@ -727,7 +720,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634460345426</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="feat: 백준 bfs - 4963번 섬의 개수 solved">
+      <created>1634561412637</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1634561412637</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -760,7 +760,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="feat: 프로그래머스 Level2 - 게임 맵 최단거리 solved" />
     <MESSAGE value="feat: 프로그래머스 위클리 챌린지 6주차 - 복서 정렬하기 solved" />
     <MESSAGE value="feat: 프로그래머스 Level2 - N진수 게임 solved" />
     <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 1번 solved" />
@@ -785,7 +784,8 @@
     <MESSAGE value="feat: 백준 dfs - 16173번 점프왕 쩰리(Small) solved" />
     <MESSAGE value="feat: 백준 dfs/bfs - 14502번 연구소 solved&#10;&#10;- bfs와 dfs를 복합적으로 사용해야하는 문제" />
     <MESSAGE value="feat: 백준 dfs 응용 - 1388번 바닥장식 failed&#10;&#10;- 다시 풀어보기!" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 dfs 응용 - 1388번 바닥장식 failed&#10;&#10;- 다시 풀어보기!" />
+    <MESSAGE value="feat: 백준 bfs - 4963번 섬의 개수 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 bfs - 4963번 섬의 개수 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
