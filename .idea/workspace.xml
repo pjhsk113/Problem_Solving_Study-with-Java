@@ -144,13 +144,52 @@
       <recent name="permutationString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.알파벳">
+  <component name="RunManager" selected="Application.분해합">
     <configuration name="바닥장식" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.dfs.바닥장식" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="백준.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="한수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.브루트포스.한수" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.브루트포스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="셀프넘버" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.브루트포스.셀프넘버" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.브루트포스.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="분해합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.브루트포스.분해합" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.브루트포스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,13 +262,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -255,34 +296,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Problem_Solving_Study-with-Java [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.알파벳" />
-        <item itemvalue="Application.섬의개수" />
+        <item itemvalue="Application.분해합" />
+        <item itemvalue="Application.셀프넘버" />
+        <item itemvalue="Application.한수" />
         <item itemvalue="Application.바닥장식" />
         <item itemvalue="Gradle.Problem_Solving_Study-with-Java [build]" />
-        <item itemvalue="Gradle.Problem_Solving_Study-with-Java [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -382,14 +402,8 @@
       <workItem from="1634359487697" duration="6110000" />
       <workItem from="1634377078455" duration="2346000" />
       <workItem from="1634453781278" duration="6274000" />
-      <workItem from="1634554681511" duration="7320000" />
-    </task>
-    <task id="LOCAL-00061" summary="[feat] 2019 카카오 블라인드 - 실패율 solved">
-      <created>1628848548853</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1628848548853</updated>
+      <workItem from="1634554681511" duration="7711000" />
+      <workItem from="1634644326792" duration="2881000" />
     </task>
     <task id="LOCAL-00062" summary="[feat] 연습문제 - N개의 최소공배수 solved&#10;&#10;- 유클리드 호제법!">
       <created>1628850195226</created>
@@ -727,7 +741,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634561412637</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="feat: 백준 dfs - 1987번 알파벳 solved">
+      <created>1634564624472</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1634564624472</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -760,7 +781,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="feat: 프로그래머스 위클리 챌린지 6주차 - 복서 정렬하기 solved" />
     <MESSAGE value="feat: 프로그래머스 Level2 - N진수 게임 solved" />
     <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 1번 solved" />
     <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 2번 solved" />
@@ -785,7 +805,8 @@
     <MESSAGE value="feat: 백준 dfs/bfs - 14502번 연구소 solved&#10;&#10;- bfs와 dfs를 복합적으로 사용해야하는 문제" />
     <MESSAGE value="feat: 백준 dfs 응용 - 1388번 바닥장식 failed&#10;&#10;- 다시 풀어보기!" />
     <MESSAGE value="feat: 백준 bfs - 4963번 섬의 개수 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 bfs - 4963번 섬의 개수 solved" />
+    <MESSAGE value="feat: 백준 dfs - 1987번 알파벳 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 dfs - 1987번 알파벳 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -844,6 +865,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/백준/bfs/섬의개수.java</url>
           <line>53</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/백준/브루트포스/한수.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
