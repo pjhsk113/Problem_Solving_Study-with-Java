@@ -144,13 +144,26 @@
       <recent name="permutationString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.덩치">
+  <component name="RunManager" selected="Application.영화감독_숌">
     <configuration name="바닥장식" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.dfs.바닥장식" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="백준.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.bfs.토마토" />
+      <module name="Problem_Solving_Study-with-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.bfs.토마토" />
+    <configuration name="영화감독_숌" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.브루트포스.영화감독_숌" />
       <module name="Problem_Solving_Study-with-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.bfs.*" />
+          <option name="PATTERN" value="백준.브루트포스.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,25 +288,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.덩치" />
-        <item itemvalue="Application.분해합" />
-        <item itemvalue="Application.셀프넘버" />
-        <item itemvalue="Application.한수" />
+        <item itemvalue="Application.영화감독_숌" />
         <item itemvalue="Application.바닥장식" />
       </list>
     </recent_temporary>
@@ -395,14 +403,8 @@
       <workItem from="1634377078455" duration="2346000" />
       <workItem from="1634453781278" duration="6274000" />
       <workItem from="1634554681511" duration="7711000" />
-      <workItem from="1634644326792" duration="3909000" />
-    </task>
-    <task id="LOCAL-00065" summary="feat: 프로그래머스 Level1 - 최대공약수와 최소공배수 solved&#10;&#10;- 유클리드호제법">
-      <created>1629279084807</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1629279084807</updated>
+      <workItem from="1634644326792" duration="4201000" />
+      <workItem from="1634727216847" duration="3369000" />
     </task>
     <task id="LOCAL-00066" summary="feat: 프로그래머스 Level1 - 이상한 문자 만들기 solved">
       <created>1629364197963</created>
@@ -740,7 +742,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634647538471</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="feat: 백준 브루트포스 - 7568번 덩치 solved">
+      <created>1634648598040</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1634648598040</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -773,7 +782,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 3번 solved" />
     <MESSAGE value="feat: 카카오 2021 블라인드 코딩테스트 6번&#10;- 정확성만 통과 효율성 폭망!" />
     <MESSAGE value="feat: 프로그래머스 완전탐색 - 카펫 solved" />
     <MESSAGE value="fix: 클래스명 오류 수정" />
@@ -798,7 +806,8 @@
     <MESSAGE value="feat: 백준 브루트포스 - 1065번 한수 solved" />
     <MESSAGE value="feat: 백준 브루트포스 - 46" />
     <MESSAGE value="feat: 백준 브루트포스 - 2231번 분해합 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 브루트포스 - 2231번 분해합 solved" />
+    <MESSAGE value="feat: 백준 브루트포스 - 7568번 덩치 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 브루트포스 - 7568번 덩치 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
