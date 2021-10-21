@@ -28,9 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="feat: 백준 브루트포스 - 1436번 영화감독 숌 solved">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="01bad725-67cc-403a-a1fc-2e756b1e3781" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -449,14 +447,7 @@
       <workItem from="1634554681511" duration="7711000" />
       <workItem from="1634644326792" duration="4201000" />
       <workItem from="1634727216847" duration="4844000" />
-      <workItem from="1634819719294" duration="2862000" />
-    </task>
-    <task id="LOCAL-00067" summary="feat: 프로그래머스 Level1 - 문자열 내 마음대로 정렬하기 solved">
-      <created>1629452352865</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1629452352865</updated>
+      <workItem from="1634819719294" duration="3201000" />
     </task>
     <task id="LOCAL-00068" summary="feat: 프로그래머스 Level1 - 체육복 solved">
       <created>1629533952790</created>
@@ -794,7 +785,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634732209074</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="feat: 백준 구현 - 10773번 제로 solved">
+      <created>1634824434042</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1634824434042</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -827,7 +825,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="feat: 프로그래머스 완전탐색 - 카펫 solved" />
     <MESSAGE value="fix: 클래스명 오류 수정" />
     <MESSAGE value="feat: 프로그래머스 위클리 챌린지 7주차 - 입실 퇴실&#10;&#10;- 아직 못품" />
     <MESSAGE value="feat: 라인 1번" />
@@ -852,7 +849,8 @@
     <MESSAGE value="feat: 백준 브루트포스 - 2231번 분해합 solved" />
     <MESSAGE value="feat: 백준 브루트포스 - 7568번 덩치 solved" />
     <MESSAGE value="feat: 백준 브루트포스 - 1436번 영화감독 숌 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 브루트포스 - 1436번 영화감독 숌 solved" />
+    <MESSAGE value="feat: 백준 구현 - 10773번 제로 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 백준 구현 - 10773번 제로 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
