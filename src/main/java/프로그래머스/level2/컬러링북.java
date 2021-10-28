@@ -1,9 +1,5 @@
 package 프로그래머스.level2;
 
-import 백준.bfs.미로탐색;
-
-import java.util.*;
-
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class 컬러링북 {

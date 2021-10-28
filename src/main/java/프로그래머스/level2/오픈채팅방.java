@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.Map;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.Assertions.in;
 
 public class 오픈채팅방 {
     public static void main(String[] args) {
@@ -24,7 +23,6 @@ public class 오픈채팅방 {
     static class Solution {
         private static final String ENTER = "Enter";
         private static final String LEAVE = "Leave";
-        private static final String CHANGE = "Change";
         private static final String ENTER_MESSAGE = "%s님이 들어왔습니다.";
         private static final String LEAVE_MESSAGE = "%s님이 나갔습니다.";
 
